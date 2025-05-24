@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "team": "Team"
+  },
+  "hero": {
+    "title": "Welcome to CCA"
+  },
+    "team": {
+    "title": "Meet the Team",
+    "description": "Our team consists of industry experts and passionate creators."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "team": "Équipe"
+  },
+  "hero": {
+    "title": "Bienvenue chez CCA"
+  },
+  "team": {
+    "title": "Rencontrez l'équipe",
+    "description": "Notre équipe se compose d'experts de l'industrie et de créateurs passionnés."
+  }
+}

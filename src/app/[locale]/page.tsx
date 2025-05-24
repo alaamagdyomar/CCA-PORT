@@ -1,21 +1,3 @@
-// import Image from "next/image";
-
-// export default function HomePage() {
-//   return (
-//     <section className="w-full h-screen flex">
-//          <div className="w-full h-full relative pt-10">
-//         <Image
-//           src="/logo3.png"
-//           alt="Company Logo"
-//           fill  // Makes the image fill the container
-//           className="object-cover"
-//           priority
-//         />
-//       </div>
-//     </section>
-//   );
-// }
-
 import Image from "next/image";
 
 export default function HomePage() {
